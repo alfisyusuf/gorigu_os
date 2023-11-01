@@ -49,7 +49,7 @@ $$L = \frac{\mu_0 N^2 A}{l}$$
 
 Di mana:
 - \\(L\\) adalah induktansi sendiri dalam henry (H).
-- \\(\mu_0\\) adalah permeabilitas ruang hampa (sekitar \(4\pi \times 10^{-7}\) H/m).
+- \\(\mu_0\\) adalah permeabilitas ruang hampa (sekitar \\(4\pi \times 10^{-7}\\) H/m).
 - \\(N\\) adalah jumlah lilitan dalam solenoid.
 - \\(A\\) adalah luas penampang solenoid.
 - \\(l\\) adalah panjang solenoid.
