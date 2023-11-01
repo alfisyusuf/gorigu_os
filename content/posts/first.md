@@ -48,11 +48,11 @@ Dalam solenoid, koefisien induktansi sendiri dapat dihitung dengan persamaan ber
 $$L = \frac{\mu_0 N^2 A}{l}$$
 
 Di mana:
-- $$L$$ adalah induktansi sendiri dalam henry (H).
-- $$\mu_0$$ adalah permeabilitas ruang hampa (sekitar \(4\pi \times 10^{-7}\) H/m).
-- $$N$$ adalah jumlah lilitan dalam solenoid.
-- $$A$$ adalah luas penampang solenoid.
-- $$l$$ adalah panjang solenoid.
+- \\(L\\) adalah induktansi sendiri dalam henry (H).
+- \\(\mu_0\\) adalah permeabilitas ruang hampa (sekitar \(4\pi \times 10^{-7}\) H/m).
+- \\(N\\) adalah jumlah lilitan dalam solenoid.
+- \\(A\\) adalah luas penampang solenoid.
+- \\(l\\) adalah panjang solenoid.
 
 ### 4. Generator
 
@@ -61,12 +61,12 @@ Operasi generator didasarkan pada Hukum Faraday. EMF yang diinduksi (\( \varepsi
 $$\varepsilon = N \cdot B \cdot A \cdot \omega \cdot \sin(\omega t)$$
 
 Di mana:
-- $$\varepsilon$$ adalah EMF yang diinduksi dalam volt (V).
-- $$N$$ adalah jumlah lilitan kumparan.
-- $$B$$ adalah kuat medan magnet dalam tesla (T).
-- $$A$$ adalah luas kumparan dalam meter persegi (m²).
-- $$\omega$$ adalah frekuensi sudut rotasi dalam radian per detik (rad/s).
-- $$t$$ adalah waktu dalam detik (s).
+- \\(\varepsilon\\) adalah EMF yang diinduksi dalam volt (V).
+- \\(N\\) adalah jumlah lilitan kumparan.
+- \\(B\\) adalah kuat medan magnet dalam tesla (T).
+- \\(A\\) adalah luas kumparan dalam meter persegi (m²).
+- \\(\omega\\) adalah frekuensi sudut rotasi dalam radian per detik (rad/s).
+- \\(t\\) adalah waktu dalam detik (s).
 
 Persamaan ini menjelaskan bagaimana EMF yang diinduksi dalam generator dipengaruhi oleh faktor seperti jumlah lilitan kumparan, kuat medan magnet, luas kumparan, frekuensi sudut, dan waktu.
 
@@ -77,9 +77,9 @@ Transformator adalah perangkat yang digunakan untuk mengubah tingkat tegangan ar
 $$\frac{V_1}{V_2} = \frac{N_1}{N_2}$$
 
 Di mana:
-- $$V_1$$ adalah tegangan primer.
-- $$V_2$$ adalah tegangan sekunder.
-- $$N_1$$ adalah jumlah lilitan pada kumparan primer.
-- $$N_2$$ adalah jumlah lilitan pada kumparan sekunder.
+- \\(V_1\\) adalah tegangan primer.
+- \\(V_2\\) adalah tegangan sekunder.
+- \\(N_1\\) adalah jumlah lilitan pada kumparan primer.
+- \\(N_2\\) adalah jumlah lilitan pada kumparan sekunder.
 
 Persamaan ini menggambarkan hubungan antara jumlah lilitan pada kumparan primer dan sekunder serta tingkat tegangan. Transformator bekerja berdasarkan prinsip induksi elektromagnetik untuk menaikkan atau menurunkan tingkat tegangan sambil mempertahankan frekuensi yang sama.
