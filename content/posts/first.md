@@ -56,7 +56,7 @@ Di mana:
 
 ### 4. Generator
 
-Operasi generator didasarkan pada Hukum Faraday. EMF yang diinduksi (\( \varepsilon \)) dalam generator dapat diungkapkan sebagai berikut:
+Operasi generator didasarkan pada Hukum Faraday. EMF yang diinduksi (\\( \varepsilon \\)) dalam generator dapat diungkapkan sebagai berikut:
 
 $$\varepsilon = N \cdot B \cdot A \cdot \omega \cdot \sin(\omega t)$$
 
