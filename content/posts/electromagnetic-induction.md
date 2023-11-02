@@ -140,7 +140,7 @@ Jadi, ggl induksi \\(ε\\) yang timbul adalah \\(2\ \text{V}\\).
 $$\Phi = 0.02t^3 + 0.4t^2 + 5$$
 dengan \\(\Phi\\) dalam satuan Weber dan t dalam satuan sekon. Tentukan besar ggl induksi saat t = 1 sekon! 
 
-### Solusi
+#### Solusi
 
 Kumparan dengan 10 lilitan mengalami perubahan fluks magnetik dengan persamaan:
 
