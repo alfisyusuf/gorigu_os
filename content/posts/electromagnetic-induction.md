@@ -87,8 +87,11 @@ Di mana:
 
 Persamaan ini menggambarkan hubungan antara jumlah lilitan pada kumparan primer dan sekunder serta tingkat tegangan. Transformator bekerja berdasarkan prinsip induksi elektromagnetik untuk menaikkan atau menurunkan tingkat tegangan sambil mempertahankan frekuensi yang sama.
 
-[Menuju Simulasi](https://iwant2study.org/lookangejss/05electricitynmagnetism_17AC/ejss_model_transformer/)
+[Menuju Simulasi](https://iwant2study.org/lookangejss/05electricitynmagnetism_17AC/ejss_model_transformer/)   
 
+{{< rawhtml >}}
+<br><br>
+{{< /rawhtml >}}
 
 ## Latihan Soal dari Fisika Study Center
 
@@ -127,3 +130,51 @@ Sekarang kita dapat menghitung \\(ε\\):
 \\(ε = -2\ \text{V}\\)
 
 Jadi, ggl induksi \\(ε\\) yang timbul adalah \\(2\ \text{V}\\).
+
+{{< rawhtml >}}
+<br>
+{{< /rawhtml >}}
+
+2. Kumparan dengan 10 lilitan mengalami perubahan fluks magnetik dengan persamaan:
+$$\Phi = 0.02t^3 + 0.4t^2 + 5$$
+dengan \\(\Phi\\) dalam satuan Weber dan t dalam satuan sekon. Tentukan besar ggl induksi saat t = 1 sekon! 
+
+### Solusi
+
+Kumparan dengan 10 lilitan mengalami perubahan fluks magnetik dengan persamaan:
+
+$$
+\Phi = 0.02t^3 + 0.4t^2 + 5
+$$
+
+dengan \\(\Phi\\) dalam satuan Weber dan \\(t\\) dalam satuan sekon. Untuk menentukan besar ggl induksi (\\(\varepsilon\\)) saat \\(t = 1\\) sekon, kita dapat menggunakan rumus:
+
+$$
+\varepsilon = -N\frac{d\Phi}{dt}
+$$
+
+Di sini, \\(N\\) adalah jumlah lilitan kumparan, yang dalam kasus ini adalah 10 lilitan.
+
+Langkah pertama adalah menghitung turunan fluks magnetik \\(\frac{d\Phi}{dt}\\) terhadap waktu \\(t\\). Kita akan menggunakan persamaan fluks magnetik yang diberikan:
+
+$$
+\frac{d\Phi}{dt} = \frac{d}{dt}(0.02t^3 + 0.4t^2 + 5)
+$$
+
+$$\frac{d\Phi}{dt} = 0.06t^2 + 0.8t$$
+
+Sekarang kita memiliki turunan fluks magnetik terhadap \(t\), yaitu \(\frac{d\Phi}{dt} = 0.06t^2 + 0.8t\). Selanjutnya, kita dapat menghitung \(\varepsilon\) saat \(t = 1\) sekon dengan menggunakan rumus:
+
+$$
+\varepsilon = -N\frac{d\Phi}{dt}
+$$
+
+$$\varepsilon = -10 \cdot (0.06(1^2) + 0.8(1))$$
+
+$$\varepsilon = -10 \cdot (0.06 + 0.8)$$
+
+$$\varepsilon = -10 \cdot 0.86$$
+
+$$\varepsilon = -8.6 \ \text{volt}$$
+
+Jadi, besar ggl induksi saat \\(t = 1\\) sekon adalah \\(-8.6 \ \text{volt}\\).
