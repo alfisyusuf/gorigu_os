@@ -164,7 +164,7 @@ $$
 
 $$\frac{d\Phi}{dt} = 0.06t^2 + 0.8t$$
 
-Sekarang kita memiliki turunan fluks magnetik terhadap \(t\), yaitu \(\frac{d\Phi}{dt} = 0.06t^2 + 0.8t\). Selanjutnya, kita dapat menghitung \(\varepsilon\) saat \(t = 1\) sekon dengan menggunakan rumus:
+Sekarang kita memiliki turunan fluks magnetik terhadap \\(t\\), yaitu \\(\frac{d\Phi}{dt} = 0.06t^2 + 0.8t\\). Selanjutnya, kita dapat menghitung \\(\varepsilon\\) saat \\(t = 1\\) sekon dengan menggunakan rumus:
 
 $$
 \varepsilon = -N\frac{d\Phi}{dt}
