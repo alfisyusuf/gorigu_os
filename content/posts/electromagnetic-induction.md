@@ -28,27 +28,27 @@ Hukum Lenz melengkapi Hukum Faraday dan memberikan wawasan tentang arah arus yan
 
 Induktansi adalah sifat dari suatu rangkaian listrik yang mengukur kemampuannya untuk melawan perubahan arus. Ada dua aspek utama tentang induktansi yang perlu dipertimbangkan:
 
-#### Induktansi Sendiri
+#### Induktansi Diri
 
-Induktansi sendiri dijelaskan oleh persamaan berikut:
+Induktansi Diri dijelaskan oleh persamaan berikut:
 
 $$\varepsilon = -L \frac{di}{dt}$$
 
 Di mana:
 - \\(\varepsilon\\) adalah EMF yang diinduksi dalam volt (V).
-- \\(L\\) adalah koefisien induktansi sendiri dalam henry (H).
+- \\(L\\) adalah koefisien induktansi diri dalam henry (H).
 - \\(\frac{di}{dt}\\) adalah laju perubahan arus terhadap waktu, dalam ampere per detik (A/s).
 
 Persamaan ini menggambarkan bagaimana perubahan arus menginduksi EMF dalam rangkaian yang sama, dengan koefisien induktansi sendiri, \\(L\\), menentukan besarnya efek tersebut.
 
-#### Induktansi Sendiri dalam Solenoid
+#### Induktansi Diri dalam Solenoid
 
-Dalam solenoid, koefisien induktansi sendiri dapat dihitung dengan persamaan berikut:
+Dalam solenoid, koefisien induktansi diri dapat dihitung dengan persamaan berikut:
 
 $$L = \frac{\mu_0 N^2 A}{l}$$
 
 Di mana:
-- \\(L\\) adalah induktansi sendiri dalam henry (H).
+- \\(L\\) adalah induktansi diri dalam henry (H).
 - \\(\mu_0\\) adalah permeabilitas ruang hampa (sekitar \\(4\pi \times 10^{-7}\\) H/m).
 - \\(N\\) adalah jumlah lilitan dalam solenoid.
 - \\(A\\) adalah luas penampang solenoid.
@@ -70,6 +70,9 @@ Di mana:
 
 Persamaan ini menjelaskan bagaimana EMF yang diinduksi dalam generator dipengaruhi oleh faktor seperti jumlah lilitan kumparan, kuat medan magnet, luas kumparan, frekuensi sudut, dan waktu.
 
+Berikut adalah simulasi yang bisa membantumu belajar generator.
+[Menuju Simulasi](https://www.walter-fendt.de/html5/phen/generator_en.htm)
+
 ### 5. Transformator
 
 Transformator adalah perangkat yang digunakan untuk mengubah tingkat tegangan arus bolak-balik (AC). Persamaan dasar transformator adalah:
@@ -83,3 +86,44 @@ Di mana:
 - \\(N_2\\) adalah jumlah lilitan pada kumparan sekunder.
 
 Persamaan ini menggambarkan hubungan antara jumlah lilitan pada kumparan primer dan sekunder serta tingkat tegangan. Transformator bekerja berdasarkan prinsip induksi elektromagnetik untuk menaikkan atau menurunkan tingkat tegangan sambil mempertahankan frekuensi yang sama.
+
+[Menuju Simulasi](https://iwant2study.org/lookangejss/05electricitynmagnetism_17AC/ejss_model_transformer/)
+
+
+## Latihan Soal dari Fisika Study Center
+
+1. Sebuah kumparan memiliki jumlah lilitan 1000 mengalami perubahan fluks magnetik dari \\(3 \times 10^{−5}\ Wb\\) menjadi \\(5 \times 10^{−5}\ Wb\\) dalam selang waktu 10 ms. Tentukan ggl induksi yang timbul!
+
+#### Solusi:
+Untuk menentukan \\(ε\\) (ggl induksi) yang timbul, kita dapat menggunakan hukum Faraday tentang induksi elektromagnetik, yang dinyatakan sebagai:
+
+$$
+ε = -N \cdot \frac{ΔΦ}{Δt}
+$$
+
+Di mana:
+- \\(ε\\) adalah ggl induksi (volt).
+- \\(N\\) adalah jumlah lilitan kumparan.
+- \\(ΔΦ\\) adalah perubahan fluks magnetik (Wb).
+- \\(Δt\\) adalah selang waktu (detik).
+
+Dalam kasus ini, jumlah lilitan \\(N = 1000\\), perubahan fluks magnetik \\(ΔΦ\\) adalah:
+
+$$\begin{eqnarray}ΔΦ &=& 5 \times 10^{-5}\ \text{Wb} - 3 \times 10^{-5}\ \text{Wb} \nonumber \\ &=& 2 \times 10^{-5}\ \text{Wb}  \nonumber \end{eqnarray}$$
+
+Selang waktu \\(Δt\\) adalah \\(10\\) ms, yang perlu dikonversi ke detik:
+
+$$
+Δt = 10\ \text{ms} = 0.01\ \text{detik}
+$$
+
+Sekarang kita dapat menghitung \\(ε\\):
+
+
+\\(ε = -N \cdot \frac{ΔΦ}{Δt}\\)
+
+\\(ε = -1000 \cdot \frac{2 \times 10^{-5}\ \text{Wb}}{0.01\ \text{detik}}\\)
+
+\\(ε = -2\ \text{V}\\)
+
+Jadi, ggl induksi \\(ε\\) yang timbul adalah \\(2\ \text{V}\\).
