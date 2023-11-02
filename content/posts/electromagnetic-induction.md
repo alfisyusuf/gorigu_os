@@ -112,7 +112,8 @@ Di mana:
 
 Dalam kasus ini, jumlah lilitan \\(N = 1000\\), perubahan fluks magnetik \\(ΔΦ\\) adalah:
 
-$$\begin{eqnarray}ΔΦ &=& 5 \times 10^{-5}\ \text{Wb} - 3 \times 10^{-5}\ \text{Wb} \nonumber \\ &=& 2 \times 10^{-5}\ \text{Wb}  \nonumber \end{eqnarray}$$
+$$ ΔΦ = 5 \times 10^{-5}\ \text{Wb} - 3 \times 10^{-5}\ \text{Wb}$$
+$$ΔΦ = 2 \times 10^{-5}\ \text{Wb}$$
 
 Selang waktu \\(Δt\\) adalah \\(10\\) ms, yang perlu dikonversi ke detik:
 
@@ -175,6 +176,6 @@ $$\varepsilon = -10 \cdot (0.06 + 0.8)$$
 
 $$\varepsilon = -10 \cdot 0.86$$
 
-$$\varepsilon = -8.6 \ \text{volt}$$
+$$\varepsilon = -8.6$$
 
-Jadi, besar ggl induksi saat \\(t = 1\\) sekon adalah \\(-8.6 \ \text{volt}\\).
+Jadi, besar ggl induksi saat \\(t = 1\\) sekon adalah \\(8.6 \ \text{volt}\\).
