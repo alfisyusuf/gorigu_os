@@ -179,3 +179,7 @@ $$\varepsilon = -10 \cdot 0.86$$
 $$\varepsilon = -8.6$$
 
 Jadi, besar ggl induksi saat \\(t = 1\\) sekon adalah \\(8.6 \ \text{volt}\\).
+
+3. Sebuah kumparan dengan induktansi 5 mH mengalami perubahan kuat arus yang mengalir dari 0,2 A menjadi 1,0 A dalam waktu 0,01 sekon. Tentukan besarnya tegangan yang timbul akibat peristiwa tersebut!
+
+4. Sebuah solenoida yang mempunyai 500 lilitan, dialiri arus searah sehingga timbul fluks magnet sebesar \\(2 . 10^{–3} weber\\). Jika induktansi solenoida 0,4 henry maka arus yang mengalir besarnya...
