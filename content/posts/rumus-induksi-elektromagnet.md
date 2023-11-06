@@ -113,13 +113,13 @@ d) Magnetic flux density
 
 **Question:** The formula for induced emf if magnetic field, length, and velocity of conductor all are mutually perpendicular is … .
 
-a) emf=B^2l
+a) emf=B²l
 
 b) emf=Bil
 
 c) emf=Blv
 
-d) emf=B^2v
+d) emf=B²v
 
 {{< rawhtml >}}
 
