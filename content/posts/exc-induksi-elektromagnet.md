@@ -18,7 +18,7 @@ d) Change in the magnetic field, area, or angle between them
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(1)">Reveal Answer</button>
+<button onclick="toggleAnswer(1)">Reveal Answer</button>
 
 <div id="answer1" style="display: none">
 
@@ -45,7 +45,7 @@ d) Reverses
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(2)">Reveal Answer</button>
+<button onclick="toggleAnswer(2)">Reveal Answer</button>
 
 <div id="answer2" style="display: none">
 
@@ -71,7 +71,7 @@ d) EMF
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(3)">Reveal Answer</button>
+<button onclick="toggleAnswer(3)">Reveal Answer</button>
 
 <div id="answer3" style="display: none">
 
@@ -97,7 +97,7 @@ d) Magnetic flux density
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(4)">Reveal Answer</button>
+<button onclick="toggleAnswer(4)">Reveal Answer</button>
 
 <div id="answer4" style="display: none">
 
@@ -123,7 +123,7 @@ d) emf=B²v
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(5)">Reveal Answer</button>
+<button onclick="toggleAnswer(5)">Reveal Answer</button>
 
 <div id="answer5" style="display: none">
 
@@ -149,7 +149,7 @@ d) 3V
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(6)">Reveal Answer</button>
+<button onclick="toggleAnswer(6)">Reveal Answer</button>
 
 <div id="answer6" style="display: none">
 
@@ -175,7 +175,7 @@ d) 0.5m
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(7)">Reveal Answer</button>
+<button onclick="toggleAnswer(7)">Reveal Answer</button>
 
 <div id="answer7" style="display: none">
 
@@ -201,7 +201,7 @@ d) 4T
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(8)">Reveal Answer</button>
+<button onclick="toggleAnswer(8)">Reveal Answer</button>
 
 <div id="answer8" style="display: none">
 
@@ -242,7 +242,7 @@ d) Electromated force
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(9)">Reveal Answer</button>
+<button onclick="toggleAnswer(9)">Reveal Answer</button>
 
 <div id="answer9" style="display: none">
 
@@ -268,7 +268,7 @@ d) Flux
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(10)">Reveal Answer</button>
+<button onclick="toggleAnswer(10)">Reveal Answer</button>
 
 <div id="answer10" style="display: none">
 
@@ -294,7 +294,7 @@ d) Maxwell
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(11)">Reveal Answer</button>
+<button onclick="toggleAnswer(11)">Reveal Answer</button>
 
 <div id="answer11" style="display: none">
 
@@ -320,7 +320,7 @@ d) Depends on the surface area
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(12)">Reveal Answer</button>
+<button onclick="toggleAnswer(12)">Reveal Answer</button>
 
 <div id="answer12" style="display: none">
 
@@ -348,7 +348,7 @@ d) Isentropic
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(13)">Reveal Answer</button>
+<button onclick="toggleAnswer(13)">Reveal Answer</button>
 
 <div id="answer13" style="display: none">
 
@@ -374,7 +374,7 @@ d) Meter Bridge
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(14)">Reveal Answer</button>
+<button onclick="toggleAnswer(14)">Reveal Answer</button>
 
 <div id="answer14" style="display: none">
 
@@ -400,7 +400,7 @@ d) Resistance offered for current flow
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(15)">Reveal Answer</button>
+<button onclick="toggleAnswer(15)">Reveal Answer</button>
 
 <div id="answer15" style="display: none">
 
@@ -426,7 +426,7 @@ d) An emf is induced in a conductor when it is just entering a magnetic field
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(16)">Reveal Answer</button>
+<button onclick="toggleAnswer(16)">Reveal Answer</button>
 
 <div id="answer16" style="display: none">
 
@@ -452,7 +452,7 @@ d) Rate of change of voltage
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(17)">Reveal Answer</button>
+<button onclick="toggleAnswer(17)">Reveal Answer</button>
 
 <div id="answer17" style="display: none">
 
@@ -478,7 +478,7 @@ d) Magnetic field
 
 {{< rawhtml >}}
 
-<button disabled onclick="toggleAnswer(18)">Reveal Answer</button>
+<button onclick="toggleAnswer(18)">Reveal Answer</button>
 
 <div id="answer18" style="display: none">
 
