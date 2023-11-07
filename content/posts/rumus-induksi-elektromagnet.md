@@ -490,7 +490,7 @@ d) Magnetic field
 
 {{< /rawhtml >}}
 
-## Number 19
+## Bonus 1
 
 **Question:** The magnetic flux in a closed circuit of resistance 20 Ω varies with time t as Φ = 4t³ + 2t² – 15t + 3. Calculate the magnitude of induced emf at t = 1s.
 
@@ -509,6 +509,48 @@ d) 6 V
 <div id="answer19" style="display: none">
 
 <strong>Answer:</strong> b
+
+<br><strong>Explanation:</strong>
+<p>To calculate the magnitude of the induced electromotive force (emf) at \(t = 1s\), we can use Faraday's law of electromagnetic induction, which relates the emf (\(ε\)) to the rate of change of magnetic flux (\(\frac{dΦ}{dt}\)) in a closed circuit:</p>
+
+$$
+ε = -\frac{dΦ}{dt}
+$$
+
+<p>Here, Φ is given as a function of time \(t\): \(Φ = 4t^3 + 2t^2 - 15t + 3\). So, we need to find \(\frac{dΦ}{dt}\) and then calculate the emf (\(ε\)) at \(t = 1s\).</p>
+
+<p>Let's start by finding \(\frac{dΦ}{dt}\):</p>
+
+$$
+\frac{dΦ}{dt} = \frac{d}{dt} (4t^3 + 2t^2 - 15t + 3)
+$$
+
+<p>Now, let's find the derivative with respect to time \(t\):</p>
+
+$$
+\frac{dΦ}{dt} = 12t^2 + 4t - 15
+$$
+
+<p>Now, plug in the value \(t = 1s\) to calculate \(\frac{dΦ}{dt}\) at \(t = 1s\):</p>
+
+$$
+\frac{dΦ}{dt} = 12(1)^2 + 4(1) - 15 = 12 + 4 - 15 = 1
+$$
+
+<p>So, \(\frac{dΦ}{dt}\) at \(t = 1s\) is 1.</p>
+
+<p>Now, we can calculate the emf (\(ε\)) using Faraday's law:</p>
+
+$$
+ε = -\frac{dΦ}{dt} = -1\, \text{V/s} = -1\, \text{V}
+$$
+
+<p>Since the magnitude of the emf is always positive, we take the absolute value:</p>
+
+<p>Magnitude of emf = 1 V</p>
+
+<p>None of the answer choices matches the result you've calculated. It appears that there may be an issue with the question or answer choices provided.</p>
+
 
 </div>
 
