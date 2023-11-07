@@ -508,7 +508,7 @@ d) 6 V
 
 <div id="answer19" style="display: none">
 
-<strong>Answer:</strong> b
+<strong>Answer:</strong> 1 V
 
 <br><strong>Explanation:</strong>
 <p>To calculate the magnitude of the induced electromotive force (emf) at \(t = 1s\), we can use Faraday's law of electromagnetic induction, which relates the emf (\(ε\)) to the rate of change of magnetic flux (\(\frac{dΦ}{dt}\)) in a closed circuit:</p>
