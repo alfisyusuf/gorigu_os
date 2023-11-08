@@ -545,7 +545,7 @@ $$
 
 {{< /rawhtml >}}
 
-## Number 19
+## Number 20
 
 **Question:** Which law is used in finding the direction of current in a.c. generator?
 
