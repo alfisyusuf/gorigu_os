@@ -571,6 +571,232 @@ d) Ampere circuital law
 
 {{< /rawhtml >}}
 
+## Number 21
+
+Identify the expression for the motional electromotive force from the following?
+
+a) E = -vLB
+
+b) E = vLB
+
+c) E = v/LB
+
+d) E = LB/v
+
+{{< rawhtml >}}
+
+<button onclick="toggleAnswer(21)">Reveal Answer</button>
+
+<div id="answer21" style="display: none">
+
+<strong>Answer:</strong> a
+
+<p><strong>Explanation:</strong> Motional electromotive is the emf induced by the motion of the conductor across the magnetic field. The expression for motional electromotive force is given by:<br>
+E = -vLB<br>
+This equation is true as long as the velocity, magnetic field, and length are mutually perpendicular to each other. The negative sign is associated with Lenz’s law.</p>
+
+</div>
+
+{{< /rawhtml >}}
+
+## Number 22
+
+A bar of length 0.7 m slides along metal rails at a speed of 1 m/s. The bar and rails are in a magnetic field of 20 T, pointing out into the page. Calculate the motional emf.
+
+a) 0.7 V
+
+b) 7 V
+
+c) 14 V
+
+d) 1.4 V
+
+{{< rawhtml >}}
+
+<button onclick="toggleAnswer(22)">Reveal Answer</button>
+
+<div id="answer22" style="display: none">
+
+<strong>Answer:</strong> c
+
+<p><strong>Explanation:</strong> Explanation: Length (L) = 0.7 m; Speed (v) = 1 m/s; Magnetic field (B) = 20 T<br>
+The required equation E = -vLB (The negative sign only applies to the direction)<br>
+E = 1 × 0.7 × 20<br>
+E = 0.7 × 20<br>
+E = 14 V<br>
+Therefore, the motional emf in the bar and rails is 14 V.</p>
+
+</div>
+
+{{< /rawhtml >}}
+
+## Number 23
+
+A bar of length 0.15 m slides along metal rails at a speed of 5 m/s. The bar and rails are in a magnetic field of 40 T, pointing out into the page. The resistance of two resistors in parallel is both 20 Ω, and the resistance of the bar is 5 Ω. What is the current in the bar?
+
+a) 1 A
+
+b) 2 A
+
+c) 3 A
+
+d) 5 A
+
+{{< rawhtml >}}
+
+<button onclick="toggleAnswer(23)">Reveal Answer</button>
+
+<div id="answer23" style="display: none">
+
+<strong>Answer:</strong> b
+
+<p><strong>Explanation:</strong> \(L = 0.15 m; B = 40 T; v = 5 m/s; R_1 = 10 Ω; R_2 = 10 Ω; R_3 = 5 Ω\)<br>
+Emf (E) = vLB = 5 × 0.15 × 40<br>
+E = 5 × 6<br>
+E = 30 V<br>
+R<sub>1</sub> and R<sub>2</sub> are in parallel ➔ \(\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} = \frac{1}{20} + \frac{1}{20} = \frac{2}{20} = \frac{1}{10}
+\) ➔ R = 10 Ω<br>
+RTOT = R + R3 = 10 + 5 = 15 Ω<br>
+Therefore, current (I) = \(\frac{E}{R}\)<br>
+I = \(\frac{30}{15}\)<br>
+I = 2 A</p>
+
+</div>
+
+{{< /rawhtml >}}
+
+## Number 24
+
+A bar of length 2m is said to fall freely in a magnetic field of magnitude 50 T. What is the motional emf in the bar when it has fallen 40 meters?
+
+a) 700 V
+
+b) 2100 V
+
+c) 2800 V
+
+d) 1400 V
+
+{{< rawhtml >}}
+
+<button onclick="toggleAnswer(24)">Reveal Answer</button>
+
+<div id="answer24" style="display: none">
+
+<strong>Answer:</strong> c
+
+<p><strong>Explanation:</strong></p>
+
+<p>Given:</p>
+<ul>
+  <li>\(L = 2 \, m\)</li>
+  <li>\(B = 50 \, T\)</li>
+</ul>
+
+<p>The bar is falling freely, so \(u = 0\). According to Newton’s third equation \(v^2 - u^2 = 2gh\), where \(h = 40 \, m\).</p>
+
+$$
+v^2 = 2gh
+$$
+
+$$
+v^2 = 2 \times 9.8 \times 40
+$$
+
+$$
+v^2 = 784
+$$
+
+$$
+v = \sqrt{784} = 28 \, m/s
+$$
+
+<p>Now, calculate the motional emf (\(E\)):</p>
+
+$$
+E = vLB
+$$
+
+$$
+E = 28 \times 2 \times 50
+$$
+
+$$
+E = 2800 \, V
+$$
+
+<p>Therefore, the motional emf in the bar when it has fallen 40 meters is \(2800 \, V\), which corresponds to option (c) in the given choices.</p>
+
+
+</div>
+
+{{< /rawhtml >}}
+
+## Number 25
+
+A metal rod is forced to move with constant velocity along two parallel metal rails, connected with a strip of metal at one end across a magnetic field (B) of 0.5 T, pointing out of the page. The rod is of length 45 cm and the speed of the rod is 70 cm/s. The rod has a resistance of 10 Ω and the resistance of the rails and connector is negligible. What is the rate at which energy is being transferred to thermal energy?
+
+a) 0.225 W
+
+b) 22.55 W
+
+c) 2.25 × \\(10^-4\\) W
+
+d) 2.25 × \\(10^-3\\) W
+
+{{< rawhtml >}}
+
+<button onclick="toggleAnswer(25)">Reveal Answer</button>
+
+<div id="answer25" style="display: none">
+
+<strong>Answer:</strong> d
+
+<p><strong>Explanation:</strong></p>
+
+<p>Given:</p>
+<ul>
+  <li>\(B = 0.5 \, T\)</li>
+  <li>\(v = 70 \, cm/s = 70 \times 10^{-2} \, m/s\)</li>
+  <li>\(L = 45 \, cm = 45 \times 10^{-2} \, m\)</li>
+  <li>\(R = 10 \, Ω\)</li>
+</ul>
+
+<p>Motional emf (\(E\)) can be calculated using \(E = vLB\):</p>
+
+$$
+E = 70 \times 10^{-2} \times 45 \times 10^{-2} \times 0.5 = 0.15 \, V
+$$
+
+<p>Now, calculate the current (\(I\)) using \(I = \frac{E}{R}\):</p>
+
+$$
+I = \frac{0.15}{10} = 0.015 \, A
+$$
+
+<p>The rate at which energy is being transferred to thermal energy (\(P\)) can be calculated using \(P = I^2R\):</p>
+
+$$
+P = (0.015)^2 \times 10 = 2.25 \times 10^{-3} \, W
+$$
+
+<p>Therefore, the rate at which energy is being transferred to thermal energy is \(2.25 \times 10^{-3} \, W\), which corresponds to option (d) in the given choices.</p>
+
+
+</div>
+
+{{< /rawhtml >}}
+
+
+
+
+
+
+
+
+
+
+
 {{< rawhtml >}}
 
 <script type="text/javascript">
