@@ -656,7 +656,7 @@ E = 5 × 6<br>
 E = 30 V<br>
 R<sub>1</sub> and R<sub>2</sub> are in parallel ➔ \(\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} = \frac{1}{20} + \frac{1}{20} = \frac{2}{20} = \frac{1}{10}
 \) ➔ R = 10 Ω<br>
-RTOT = R + R3 = 10 + 5 = 15 Ω<br>
+R<sub>TOT</sub> = R + R3 = 10 + 5 = 15 Ω<br>
 Therefore, current (I) = \(\frac{E}{R}\)<br>
 I = \(\frac{30}{15}\)<br>
 I = 2 A</p>
