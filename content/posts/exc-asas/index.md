@@ -114,3 +114,5 @@ c) By converting chemical energy into electrical energy through an electrolyte.
 d) By converting gravitational energy into electrical energy through turbine utilization.
 
 e) By converting nuclear energy into electrical energy through fusion reactions.
+
+For the remaining questions, you can access the previous exercise ([click here](../exc-induksi-elektromagnet))
