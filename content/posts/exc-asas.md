@@ -37,3 +37,17 @@ Oppose each other with a force proportional to \\(r^{−1}\\).
 Attract each other with a force proportional to \\(r^{−1}\\).
 
 Attract each other with a force proportional to \\(r^{2}\\).
+
+## Number 4
+
+**Question:** A toroid with a circumference of 50 cm wound with 1000 wires carrying a current of 0.5 amperes exhibits a magnetic induction within the toroid core of 0.001 T. The permeability of the material within the toroid is...
+
+0.6\\(μ^0\\)
+
+0.8\\(μ^0\\)
+
+1.0\\(μ^0\\)
+
+1.4\\(μ^0\\)
+
+1.6\\(μ^0\\)
