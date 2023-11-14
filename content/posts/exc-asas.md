@@ -24,7 +24,7 @@ West
 
 Southeast
 
-## Number 2
+## Number 3
 
 **Question:** Two very long straight wires are placed parallel to each other at a distance r. Each wire carries a current I in opposite directions. Therefore, the two wires will...
 
