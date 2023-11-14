@@ -11,23 +11,23 @@ draft: false
 ![number 1 image](images/elin01f.png)
 
 a) \\(
-\frac{\mu_0}{6a}
+\frac{\mu_0 I}{6a}
 \\)
 
 b) \\(
-\frac{\mu_0}{4a}
+\frac{\mu_0 I}{4a}
 \\)
 
 c) \\(
-\frac{\mu_0}{a}
+\frac{\mu_0 I}{a}
 \\)
 
 d) \\(
-\frac{\mu_0}{12a}
+\frac{\mu_0 I}{12a}
 \\)
 
 e) \\(
-\frac{\mu_0}{8a}
+\frac{\mu_0 I}{8a}
 \\)
 
 
