@@ -10,6 +10,27 @@ draft: false
 
 ![number 1 image](images/elin01f.png)
 
+a) \\(
+\frac{\mu_0}{6a}
+\\)
+
+b) \\(
+\frac{\mu_0}{4a}
+\\)
+
+c) \\(
+\frac{\mu_0}{a}
+\\)
+
+d) \\(
+\frac{\mu_0}{12a}
+\\)
+
+e) \\(
+\frac{\mu_0}{8a}
+\\)
+
+
 ## Number 2
 
 **Question:** An electric current flows along a high-voltage power line from the West to the East. The direction of the magnetic field caused by the current above that wire is towards the … .
