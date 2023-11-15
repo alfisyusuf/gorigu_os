@@ -1,3 +1,8 @@
+---
+title: "Phrasal Verb"
+date: 2023-10-31T10:56:29+07:00
+draft: false
+---
 1. While they were on holiday their house was broken ______ and
 some valuable paintings were stolen.
 A) down B) into C) about D) away
