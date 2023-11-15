@@ -5,7 +5,10 @@ draft: false
 ---
 1. While they were on holiday their house was broken ______ and
 some valuable paintings were stolen.
-A) down B) into C) about D) away
+A) down 
+B) into 
+C) about 
+D) away
 2. By the way, I’ve just heard that Sally and Chris have ______ their
 engagement.
 A) broken into B) broken downC) broken away D) broken up
