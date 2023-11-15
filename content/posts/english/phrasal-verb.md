@@ -24,22 +24,64 @@ B) broken down
 C) broken away 
 
 D) broken up
+
 3. After a bitter discussion they went ______ each other.
-A) to B) at C) off D) over
+
+A) to 
+
+B) at 
+
+C) off 
+
+D) over
+
 4. A: The new boss looks a bit serious, doesn’t he? I don’t think I’m
 going to like him.
+
 B: Oh, come on, Joyce, you can’t go ______ appearances. He’s
 probably very nice.
-A) after B) by C) out D) over
+
+A) after 
+
+B) by 
+
+C) out 
+
+D) over
+
 5. No one really believed it when the news came that Titanic had
 ______.
-A) gone away B) gone down C) gone out D) gone by
+
+A) gone away 
+
+B) gone down 
+
+C) gone out 
+
+D) gone by
+
 6. I’ve been afraid of dogs ever since a large Canine ______ me
 when I was a child.
-A) went for B) went after C) went to D) went over
+
+A) went for 
+
+B) went after 
+
+C) went to 
+
+D) went over
+
 7. By the way, Bill, how much did that Regency desk go ______ in
 the auction on Saturday?
-A) away B) for C) in D) off
+
+A) away 
+
+B) for 
+
+C) in 
+
+D) off
+
 8. The dog went ______ the beggar and he shouted “ help!”.
 A) over B) off C) for D) down
 9. A: And another thing I’d like to say is that...
