@@ -17,10 +17,15 @@ Berapa periode orbit batu itu?
 Internal waktu antara dua oposisi berurutan dari Mars adalah 779,9 hari. Hitung setengah sumbu panjang planet Mars dalam orbitnya mengelilingi matahari.
 
 a. 1,12 sa
+
 b. 1,52 sa
+
 c. 2,12 sa
+
 d. 2,52 sa
+
 e. 3,12 sa
+
 
 {{< rawhtml >}}
 
